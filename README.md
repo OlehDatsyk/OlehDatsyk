@@ -151,3 +151,10 @@
   <!-- PostgreSQL -->
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
 </div>
+
+
+<div align="center">
+
+![snake gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
+
+</div>
