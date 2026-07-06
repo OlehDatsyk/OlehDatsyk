@@ -83,26 +83,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=olehdatsyk.olehdatsyk" alt="Profile Views"  />
-&nbsp;
-  <img src="https://img.shields.io/github/followers/OlehDatsyk?label=Followers&style=flat-square&color=7c3aed" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/OlehDatsyk?label=Stars&style=flat-square&color=10b981" alt="Stars" />
-</div>
-
-
-
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=OlehDatsyk&label=Visitors&style=flat-square&color=00d4ff" alt="Visitors" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/OlehDatsyk?label=Followers&style=flat-square&color=7c3aed" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/github/stars/OlehDatsyk?label=Stars&style=flat-square&color=10b981" alt="Stars" />
 </div>
-
-
-
 
 ###
 
