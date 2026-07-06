@@ -75,14 +75,10 @@
 </a>
 
 <!-- Steam -->
-<a href="https://steamcommunity.com/id/your_username" target="_blank">
+<a href="https://steamcommunity.com/id/rader_01" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=171A21&logoColor=white&style=for-the-badge" height="25" alt="steam logo" />
 </a>
 
-<!-- Spotify -->
-<a href="https://open.spotify.com/user/31yxai7g2sozo2udgqvdimhsnbce?si=4281bc30d8e244e7" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&style=for-the-badge" height="25" alt="spotify logo" />
-</a>
 
 <!-- Gmail -->
 <a href="mailto:olehdatsyk07@gmail.com">
