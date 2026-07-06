@@ -20,6 +20,80 @@
   <a href="https://instagram.com/your_username" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
 </a>
+
+
+
+
+
+
+<!-- X (Twitter) -->
+<a href="https://x.com/your_username" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="x logo" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/your_username" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/your_username" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
+</a>
+
+<!-- Discord -->
+<a href="https://discord.gg/your_invite" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
+</a>
+
+<!-- YouTube -->
+<a href="https://youtube.com/@your_channel" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo" />
+</a>
+
+<!-- TikTok -->
+<a href="https://tiktok.com/@your_username" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="tiktok logo" />
+</a>
+
+<!-- Facebook -->
+<a href="https://facebook.com/your_username" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="facebook logo" />
+</a>
+
+<!-- Reddit -->
+<a href="https://reddit.com/u/your_username" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&style=for-the-badge" height="25" alt="reddit logo" />
+</a>
+
+<!-- Twitch -->
+<a href="https://twitch.tv/your_username" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="25" alt="twitch logo" />
+</a>
+
+<!-- Steam -->
+<a href="https://steamcommunity.com/id/your_username" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=171A21&logoColor=white&style=for-the-badge" height="25" alt="steam logo" />
+</a>
+
+<!-- Spotify -->
+<a href="https://open.spotify.com/user/your_username" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&style=for-the-badge" height="25" alt="spotify logo" />
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 </div>
 
 ###
