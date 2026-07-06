@@ -80,14 +80,6 @@
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
   <img width="12" />
 
-  <!-- VBA -->
-  <img src="https://cdn.simpleicons.org/microsoftoffice/D83B01" height="40" alt="vba logo" />
-  <img width="12" />
-
-  <!-- SQL -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
-  <img width="12" />
-
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
