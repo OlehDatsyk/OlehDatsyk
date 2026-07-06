@@ -42,20 +42,17 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
 
-<!-- GitHub -->
-<a href="https://github.com/OlehDatsyk" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
-</a>
+
+
+
+
+
 
 <!-- Discord -->
-<a href="https://discord.gg/your_invite" target="_blank">
+<a href="https://discord.gg/rader001" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
 </a>
 
-<!-- YouTube -->
-<a href="https://youtube.com/@your_channel" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo" />
-</a>
 
 <!-- TikTok -->
 <a href="https://tiktok.com/@your_username" target="_blank">
