@@ -18,7 +18,7 @@
 </a>
 
 <!-- Telegram -->
-<a href="https://t.me/your_username" target="_blank">
+<a href="https://t.me/oleh_dat" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="telegram logo" />
 </a>
 
@@ -28,7 +28,7 @@
 </a>
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/your_username" target="_blank">
+<a href="https://www.linkedin.com/in/oleh-datsyk-0b088040b" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
 
@@ -38,7 +38,7 @@
 </a>
 
 <!-- Discord -->
-<a href="https://discord.gg/your_invite" target="_blank">
+<a href="https://discord.com/users/rader001" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
 </a>
 
@@ -68,12 +68,12 @@
 </a>
 
 <!-- Steam -->
-<a href="https://steamcommunity.com/id/your_username" target="_blank">
+<a href="https://steamcommunity.com/id/Rader_Kyiv" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=171A21&logoColor=white&style=for-the-badge" height="25" alt="steam logo" />
 </a>
 
 <!-- Spotify -->
-<a href="https://open.spotify.com/user/your_username" target="_blank">
+<a href="https://open.spotify.com/user/31yxai7g2sozo2udgqvdimhsnbce?si=4281bc30d8e244e7" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&style=for-the-badge" height="25" alt="spotify logo" />
 </a>
 
