@@ -72,23 +72,54 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+
+  <!-- C# -->
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+
+  <!-- VBA -->
+  <img src="https://cdn.simpleicons.org/microsoftoffice/D83B01" height="40" alt="vba logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+
+  <!-- SQL -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+
+  <!-- Vite -->
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+
+  <!-- Webpack -->
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo" />
+  <img width="12" />
+
+  <!-- WordPress -->
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" />
+  <img width="12" />
+
+  <!-- Bash -->
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
+  <img width="12" />
+
+  <!-- PostgreSQL -->
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
 </div>
