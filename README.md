@@ -83,7 +83,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=olehdatsyk.olehdatsyk" alt="Profile Views"  />
+  <img src="https://Visitor-badge.laobi.icu/badge?page_id=olehdatsyk.olehdatsyk" alt="Profile Views"  />
 </div>
 
 
