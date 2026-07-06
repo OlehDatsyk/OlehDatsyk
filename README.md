@@ -27,11 +27,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
 </a>
 
-
-
-
-
-
 <!-- X (Twitter) -->
 <a href="https://x.com/@Rader_Kyiv" target="_blank">
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="x logo" />
@@ -42,62 +37,11 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
 
-
-
-
-
-
-
-<!-- Discord -->
-<a href="https://discord.com/users/rader001" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
-</a>
-
-
-<!-- TikTok -->
-<a href="https://tiktok.com/@your_username" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="tiktok logo" />
-</a>
-
-<!-- Facebook -->
-<a href="https://facebook.com/your_username" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="facebook logo" />
-</a>
-
-<!-- Reddit -->
-<a href="https://reddit.com/u/your_username" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&style=for-the-badge" height="25" alt="reddit logo" />
-</a>
-
-<!-- Twitch -->
-<a href="https://twitch.tv/your_username" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="25" alt="twitch logo" />
-</a>
-
-<!-- Steam -->
-<a href="https://steamcommunity.com/id/Rader_Kyiv" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=171A21&logoColor=white&style=for-the-badge" height="25" alt="steam logo" />
-</a>
-
-
 <!-- Gmail -->
 <a href="mailto:olehdatsyk07@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
 </a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-  
 </div>
 
 ###
