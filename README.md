@@ -64,7 +64,7 @@
 </a>
 
 <!-- Steam -->
-<a href="https://steamcommunity.com/id/rader_01" target="_blank">
+<a href="https://steamcommunity.com/id/Rader_Kyiv" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=171A21&logoColor=white&style=for-the-badge" height="25" alt="steam logo" />
 </a>
 
