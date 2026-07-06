@@ -87,6 +87,11 @@
   <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&style=for-the-badge" height="25" alt="spotify logo" />
 </a>
 
+<!-- Gmail -->
+<a href="mailto:olehdatsyk07@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
+</a>
+
 
 
 
