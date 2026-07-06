@@ -13,7 +13,7 @@
 <div align="center">
 
   <!-- YouTube -->
-  <a href="https://www.youtube.com/@RaderDatsyk" target="_blank">
+  <a href="https://www.youtube.com/@rader2089" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 
