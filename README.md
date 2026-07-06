@@ -33,7 +33,7 @@
 
 
 <!-- X (Twitter) -->
-<a href="https://x.com/your_username" target="_blank">
+<a href="https://x.com/@Rader_Kyiv" target="_blank">
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="x logo" />
 </a>
 
