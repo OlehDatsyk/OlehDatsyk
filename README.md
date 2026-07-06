@@ -49,7 +49,7 @@
 
 
 <!-- Discord -->
-<a href="https://discord.gg/rader001" target="_blank">
+<a href="https://discord.com/users/rader001" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
 </a>
 
