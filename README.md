@@ -98,12 +98,28 @@
 
 <p align="left">My serious journey in programming began with Cheshire College South & West in Crewe, where I took a BTEC IT Level 3 course, during my studies I studied programming languages Python, C# in Unity, tried my hand at data science, created websites and applications using HTML, CSS & JS, I can work in Microsoft Access with VBA and SQL and also in Microsoft Excel with macros and formulas. At the moment I am improving my knowledge in AI APIs and building agentic systems, apps, workflows and automations.<br><br>- 🔭 #<br>- 📚 #<br>- ⚡ #</p>
 
+### 🚀 Quick Status
+
+<samp>
+  <!-- Currently working on -->
+  <b>🔭 Working on:</b> Building advanced agentic systems, custom workflows, and API automations.<br>
+  <!-- Learning -->
+  <b>📚 Learning:</b> Mastering <i>Claude Code</i> to orchestrate complex programs using AI APIs.<br>
+  <!-- Fun fact -->
+  <b>⚡ Fun Fact:</b> I once tried to automate my morning routine, and my bot accidentally sent a debug message to my entire contact list at 4:00 AM. 
+</samp>
+
 ###
-<h3 align="left">📕 My articles</h3>
 
-- [#](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [#](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
+<h3 align="left">📕 Published Articles</h3>
 
+<!-- Article 1 -->
+🔹 <b><a href="https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29" target="_blank">Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика</a></b>  
+_A complete guide on building a technical interview prep bot._
+
+<!-- Article 2 -->
+🔹 <b><a href="https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15" target="_blank">Пишем Telegram-бота для фильтрации нецензурной лексики в чате</a></b>  
+_Step-by-step implementation of a moderation bot using custom content-filtering logic._
 
 ###
 
