@@ -111,7 +111,28 @@
 
 ###
 
+### 🤖 AI Lab & Automations
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Agentic Systems</h4>
+      <ul>
+        <li>Designing asynchronous workflows using LLM APIs.</li>
+        <li>Building automated data pipelines and event-driven agents.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Developer Tooling</h4>
+      <ul>
+        <li>Experimenting with <b>Claude Code</b> for rapid AI-assisted development.</li>
+        <li>Optimizing API prompt structures and chaining contexts.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+###
 
 <h3 align="left">🛠 Technologies:</h3>
 
