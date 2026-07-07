@@ -96,7 +96,7 @@
 
 ###
 
-<p align="left">My serious journey in programming began with Cheshire College South & West in Crewe, where I took a BTEC IT Level 3 course, during my studies I studied programming languages Python, C# in Unity, tried my hand at data science, created websites and applications using HTML, CSS & JS, I can work in Microsoft Access with VBA and SQL and also in Microsoft Excel with macros and formulas. At the moment I am improving my knowledge in AI APIs and building agentic systems, apps, workflows and automations.<br><br>- 🔭 #<br>- 📚 #<br>- ⚡ #</p>
+<p align="left">My serious journey in programming began with Cheshire College South & West in Crewe, where I took a BTEC IT Level 3 course, during my studies I studied programming languages Python, C# in Unity, tried my hand at data science, created websites and applications using HTML, CSS & JS, I can work in Microsoft Access with VBA and SQL and also in Microsoft Excel with macros and formulas. At the moment I am improving my knowledge in AI APIs and building agentic systems, apps, workflows and automations.<br><br>
 
 ### 🚀 Quick Status
 
