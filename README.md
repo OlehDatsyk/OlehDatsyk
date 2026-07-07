@@ -183,9 +183,43 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
 </div>
 
+###
+
+<h3 align="left">📊 GitHub Metrics</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OlehDatsyk&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" height="160" alt="Oleh's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehDatsyk&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" height="160" alt="Oleh's Top Languages" />
+</div>
+
+###
+
+<h3 align="left">📂 Featured Pipelines & Repositories</h3>
+
+###
+
+<!-- Note: Once you build individual repositories for your AI tools, replace 'OlehDatsyk' below with 'OlehDatsyk/Your-Repo-Name' to display individual code stats cards! -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehDatsyk&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=10b981&text_color=ffffff" width="100%" alt="Coding Streak Stats" />
+</div>
+
+###
+
+<div align="center">
+  <h3>🤝 Let's Connect!</h3>
+  <p>If you're working on AI tooling, agentic systems, or workflow optimization, let's collaborate.</p>
+  <a href="https://github.com/OlehDatsyk?tab=followers">
+    <img src="https://img.shields.io/github/followers/OlehDatsyk?label=Follow%20@OlehDatsyk&style=social" alt="Follow Button" />
+  </a>
+</div>
+
+###
 
 <!-- Snake Animation -->
 <div align="center">
-    
+  
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div>
