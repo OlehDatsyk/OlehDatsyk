@@ -111,17 +111,21 @@
 
 ###
 
-<h3 align="left">📕 Published Articles</h3>
+### 💻 pet-projects --list
 
-<!-- Article 1 -->
-🔹 <b><a href="https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29" target="_blank">Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика</a></b>  
-_A complete guide on building a technical interview prep bot._
-
-<!-- Article 2 -->
-🔹 <b><a href="https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15" target="_blank">Пишем Telegram-бота для фильтрации нецензурной лексики в чате</a></b>  
-_Step-by-step implementation of a moderation bot using custom content-filtering logic._
-
-###
+```js
+const highlights = [
+  {
+    name: "Interview Simulator Bot",
+    stack: ["JavaScript", "Telegram API", "SQLite Leaderboards"],
+    source: "[https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)"
+  },
+  {
+    name: "Profanity Filter & Moderation Agent",
+    stack: ["Node.js", "Asynchronous Event Handling"],
+    source: "[https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)"
+  }
+];
 
 <h3 align="left">🛠 Technologies:</h3>
 
