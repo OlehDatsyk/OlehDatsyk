@@ -111,21 +111,7 @@
 
 ###
 
-### 💻 pet-projects --list
 
-```js
-const highlights = [
-  {
-    name: "Interview Simulator Bot",
-    stack: ["JavaScript", "Telegram API", "SQLite Leaderboards"],
-    source: "[https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)"
-  },
-  {
-    name: "Profanity Filter & Moderation Agent",
-    stack: ["Node.js", "Asynchronous Event Handling"],
-    source: "[https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)"
-  }
-];
 
 <h3 align="left">🛠 Technologies:</h3>
 
