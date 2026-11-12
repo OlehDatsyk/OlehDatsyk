@@ -134,6 +134,27 @@
 
 ###
 
+<!-- XERJ Corpus Hub Recognition -->
+### 🏆 Recognition & Achievements
+
+<div align="left">
+
+  <a href="https://hub.xerj.org" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Corpus%20Hub&logo=github&label=XERJ&color=6C63FF&logoColor=white&style=for-the-badge" height="25" alt="XERJ Corpus Hub" />
+  </a>
+
+  <a href="https://github.com/OlehDatsyk/weather-mcp-server" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Weather%20MCP%20Server&logo=github&label=Selected%20Project&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Selected Project" />
+  </a>
+
+</div>
+
+<p align="left">
+  My <b>weather-mcp-server</b> project was selected for inclusion in the <b>XERJ Corpus Hub</b>, an open reference index for AI coding agents.
+
+  This recognition highlights my work in Python development, MCP integration, logging, documentation and automated testing.
+</p>
+
 <h3 align="left">🛠 Technologies:</h3>
 
 ###
