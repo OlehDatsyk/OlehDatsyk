@@ -198,7 +198,7 @@
   <a href="https://remixfox.co.uk">
     <img src="https://img.shields.io/badge/Visit%20Website-remixfox.co.uk-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Remixfox Website"/>
   </a>
-  <a href="https://github.com/OlehDatsyk/YOUR-PUBLIC-REPOSITORY">
+  <a href="https://github.com/OlehDatsyk/Remixfox-public">
     <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github" alt="GitHub Repository"/>
   </a>
 </p>
@@ -229,6 +229,6 @@ This is an independently developed software product, built with a focus on real-
  
 **🔗 Project Links**
 - 🌐 Live Website: https://remixfox.co.uk
-- 💻 Public GitHub Repository: https://github.com/OlehDatsyk/YOUR-PUBLIC-REPOSITORY
+- 💻 Public GitHub Repository: https://github.com/OlehDatsyk/Remixfox-public
  
 **Status:** Actively developed and improved.
