@@ -232,3 +232,17 @@ This is an independently developed software product, built with a focus on real-
 - 💻 Public GitHub Repository: https://github.com/OlehDatsyk/Remixfox-public
  
 **Status:** Actively developed and improved.
+
+## 💖 Sponsors
+
+I build open-source AI tools in Python, such as agents, MCP servers and RAG apps, and share them here. If my work is useful to you, you can support its development through GitHub Sponsors. Sponsorship helps pay for AI API usage, hosting for live demos, and time spent on tests, docs and fixes.
+
+<p align="center">
+  <a href="https://github.com/sponsors/OlehDatsyk">
+    <img src="https://img.shields.io/badge/Sponsor-OlehDatsyk-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor OlehDatsyk on GitHub Sponsors"/>
+  </a>
+</p>
+
+**Thank you to my sponsors.** Sponsors at $10 a month and above are listed here if they'd like to be, Core Backers ($50) are listed first, and Development Partners ($100) get their logo and a link.
+
+*No sponsors yet. You could be the first!*
