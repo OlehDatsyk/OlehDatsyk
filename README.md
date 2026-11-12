@@ -189,3 +189,46 @@
     
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div>
+
+## 🚀 Featured Projects
+ 
+### 🦊 [Remixfox — AI-Powered SaaS Platform](https://remixfox.co.uk)
+ 
+<p align="center">
+  <a href="https://remixfox.co.uk">
+    <img src="https://img.shields.io/badge/Visit%20Website-remixfox.co.uk-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Remixfox Website"/>
+  </a>
+  <a href="https://github.com/OlehDatsyk/YOUR-PUBLIC-REPOSITORY">
+    <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github" alt="GitHub Repository"/>
+  </a>
+</p>
+ 
+**Remixfox** is a full-featured AI-powered SaaS platform designed to help content creators research Instagram Reels, analyse competitors and create engaging content with the help of artificial intelligence.
+ 
+This is an independently developed software product, built with a focus on real-world functionality, user experience, modern web technologies and practical AI integration.
+ 
+**✨ Key Features**
+- AI-powered content research and analysis.
+- Instagram Reels competitor research.
+- Video analysis and transcription.
+- AI-generated hooks, scripts and calls to action.
+- Interactive user dashboard.
+- Content creation and management workflows.
+- Backend and API integrations.
+- Database integration and data management.
+- Responsive web application.
+- Cloud deployment and custom domain.
+ 
+**🛠️ Project Highlights**
+- Independently developed and maintained.
+- AI-assisted software development.
+- Full-stack application architecture.
+- Real-world SaaS product development.
+- Production deployment using Render.
+- Custom domain: [remixfox.co.uk](https://remixfox.co.uk).
+ 
+**🔗 Project Links**
+- 🌐 Live Website: https://remixfox.co.uk
+- 💻 Public GitHub Repository: https://github.com/OlehDatsyk/YOUR-PUBLIC-REPOSITORY
+ 
+**Status:** Actively developed and improved.
