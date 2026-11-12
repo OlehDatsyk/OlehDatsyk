@@ -192,7 +192,7 @@
 
 ## 🚀 Featured Projects
  
-### 🦊 [Remixfox — AI-Powered SaaS Platform](https://remixfox.co.uk)
+### 🦊 [Remixfox - AI-Powered SaaS Platform](https://remixfox.co.uk)
  
 <p align="center">
   <a href="https://remixfox.co.uk">
