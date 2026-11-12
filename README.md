@@ -162,7 +162,6 @@
 
 <p align="left">
   <b>Explore my recognition:</b><br>
-  🔹 <a href="YOUR_CORPUS_PAGE_URL" target="_blank">View my Weather MCP Server in XERJ Corpus Hub</a><br>
   🔹 <a href="https://hub.xerj.org/contributors/OlehDatsyk" target="_blank">View my XERJ Contributor Profile</a><br>
   🔹 <a href="https://github.com/OlehDatsyk/weather-mcp-server" target="_blank">View source code on GitHub</a>
 </p>
