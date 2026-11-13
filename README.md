@@ -134,37 +134,49 @@
 
 ###
 
- 
 <!-- XERJ Corpus Hub Recognition -->
-### 🏆 Recognition & Achievements
+## 🏆 Recognition & Open-Source Contributions
 
-<div align="left">
-
+<p align="left">
   <a href="https://hub.xerj.org" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Corpus%20Hub&logo=github&label=XERJ&color=6C63FF&logoColor=white&style=for-the-badge" height="25" alt="XERJ Corpus Hub" />
+    <img src="https://img.shields.io/static/v1?message=Corpus%20Hub&logo=github&label=XERJ&color=6C63FF&logoColor=white&style=for-the-badge" height="27" alt="XERJ Corpus Hub" />
   </a>
-
   <a href="https://hub.xerj.org/contributors/OlehDatsyk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contributor%20Profile&logo=github&label=XERJ&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="XERJ Contributor Profile" />
+    <img src="https://img.shields.io/static/v1?message=Contributor%20Profile&logo=github&label=XERJ&color=2CA5E0&logoColor=white&style=for-the-badge" height="27" alt="XERJ Contributor Profile" />
   </a>
-
   <a href="https://github.com/OlehDatsyk/weather-mcp-server" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Weather%20MCP%20Server&logo=github&label=Selected%20Project&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Selected Project" />
+    <img src="https://img.shields.io/static/v1?message=Selected%20for%20Inclusion&logo=github&label=Project&color=238636&logoColor=white&style=for-the-badge" height="27" alt="Selected Project" />
   </a>
-
-</div>
-
-<p align="left">
-  My <b>weather-mcp-server</b> project was selected for inclusion in the <b>XERJ Corpus Hub</b>, an open reference index for AI coding agents.
-
-  This recognition highlights my work in Python development, Model Context Protocol (MCP) integration, logging, documentation and automated testing.
 </p>
 
-<p align="left">
-  <b>Explore my recognition:</b><br>
-  🔹 <a href="https://hub.xerj.org/contributors/OlehDatsyk" target="_blank">View my XERJ Contributor Profile</a><br>
-  🔹 <a href="https://github.com/OlehDatsyk/weather-mcp-server" target="_blank">View source code on GitHub</a>
-</p>
+I'm proud to have my **[Weather MCP Server](https://github.com/OlehDatsyk/weather-mcp-server)** selected for inclusion in the **[XERJ Corpus Hub](https://hub.xerj.org)** — an open reference collection designed to help AI coding agents access and work with structured software knowledge.
+
+This recognition represents an important milestone in my journey as an independent software developer, bringing my work into an ecosystem focused on making software knowledge more accessible, structured and useful for AI-powered development.
+
+### 🚀 What Was Recognised
+
+The selected project demonstrates practical software engineering skills and the integration of modern AI technologies, including:
+
+- **Python Development** — building a structured, maintainable and functional server implementation.
+- **Model Context Protocol (MCP)** — connecting AI assistants and compatible clients with external tools and real-time weather information.
+- **Logging & Diagnostics** — implementing logging to improve visibility, debugging and troubleshooting.
+- **Automated Testing** — providing tests to support reliability and verify expected behaviour.
+- **Documentation** — creating clear technical documentation to make the project easier to understand, use and maintain.
+- **Open-Source Development** — publishing reusable source code under the MIT Licence.
+
+### 🌐 Why This Matters
+
+Being selected for the XERJ Corpus Hub is more than simply having a repository listed in an external collection. It is an opportunity to make my work discoverable within an ecosystem focused on AI-assisted software engineering.
+
+It also reflects the direction I'm developing towards: building practical AI-powered applications, exploring emerging technologies, contributing to open-source projects and creating software that can be useful beyond my own development environment.
+
+### 🔗 Explore My Recognition
+
+- 🏆 **[XERJ Corpus Hub](https://hub.xerj.org)** — Explore the platform.
+- 👨‍💻 **[My XERJ Contributor Profile](https://hub.xerj.org/contributors/OlehDatsyk)** — View my contributor profile.
+- 💻 **[Weather MCP Server Repository](https://github.com/OlehDatsyk/weather-mcp-server)** — Explore the source code, implementation and documentation.
+
+<sub>Recognition: XERJ Corpus Hub · Project: Weather MCP Server · Developer: OlehDatsyk</sub>
 
 <h3 align="left">🛠 Technologies:</h3>
 
