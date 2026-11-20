@@ -149,7 +149,7 @@
   </a>
 </p>
 
-I'm proud to have my **[Weather MCP Server](https://github.com/OlehDatsyk/weather-mcp-server)** selected for inclusion in the **[XERJ Corpus Hub](https://hub.xerj.org)** — an open reference collection designed to help AI coding agents access and work with structured software knowledge.
+I'm proud to have my **[Weather MCP Server](https://github.com/OlehDatsyk/weather-mcp-server)** selected for inclusion in the **[XERJ Corpus Hub](https://hub.xerj.org)** - an open reference collection designed to help AI coding agents access and work with structured software knowledge.
 
 This recognition represents an important milestone in my journey as an independent software developer, bringing my work into an ecosystem focused on making software knowledge more accessible, structured and useful for AI-powered development.
 
@@ -157,12 +157,12 @@ This recognition represents an important milestone in my journey as an independe
 
 The selected project demonstrates practical software engineering skills and the integration of modern AI technologies, including:
 
-- **Python Development** — building a structured, maintainable and functional server implementation.
-- **Model Context Protocol (MCP)** — connecting AI assistants and compatible clients with external tools and real-time weather information.
-- **Logging & Diagnostics** — implementing logging to improve visibility, debugging and troubleshooting.
-- **Automated Testing** — providing tests to support reliability and verify expected behaviour.
-- **Documentation** — creating clear technical documentation to make the project easier to understand, use and maintain.
-- **Open-Source Development** — publishing reusable source code under the MIT Licence.
+- **Python Development** - building a structured, maintainable and functional server implementation.
+- **Model Context Protocol (MCP)** - connecting AI assistants and compatible clients with external tools and real-time weather information.
+- **Logging & Diagnostics** - implementing logging to improve visibility, debugging and troubleshooting.
+- **Automated Testing** - providing tests to support reliability and verify expected behaviour.
+- **Documentation** - creating clear technical documentation to make the project easier to understand, use and maintain.
+- **Open-Source Development** - publishing reusable source code under the MIT Licence.
 
 ### 🌐 Why This Matters
 
@@ -172,9 +172,9 @@ It also reflects the direction I'm developing towards: building practical AI-pow
 
 ### 🔗 Explore My Recognition
 
-- 🏆 **[XERJ Corpus Hub](https://hub.xerj.org)** — Explore the platform.
-- 👨‍💻 **[My XERJ Contributor Profile](https://hub.xerj.org/contributors/OlehDatsyk)** — View my contributor profile.
-- 💻 **[Weather MCP Server Repository](https://github.com/OlehDatsyk/weather-mcp-server)** — Explore the source code, implementation and documentation.
+- 🏆 **[XERJ Corpus Hub](https://hub.xerj.org)** - Explore the platform.
+- 👨‍💻 **[My XERJ Contributor Profile](https://hub.xerj.org/contributors/OlehDatsyk)** - View my contributor profile.
+- 💻 **[Weather MCP Server Repository](https://github.com/OlehDatsyk/weather-mcp-server)** - Explore the source code, implementation and documentation.
 
 <sub>Recognition: XERJ Corpus Hub · Project: Weather MCP Server · Developer: OlehDatsyk</sub>
 
